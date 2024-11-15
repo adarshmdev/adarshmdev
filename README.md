@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif" alt="banner" width="1200" height="300" style="border-radius: 20px; margin-bottom: 20px;">
-</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Adarsh;Full+Stack+Developer" alt="Typing SVG" />
