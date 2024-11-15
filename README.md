@@ -1,25 +1,31 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Adarsh;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
-
 <h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
-
 <div align="center">
-  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="350" style="border-radius: 10px;" />
+  <table>
+    <tr>
+      <td width="50%" align="left">
+        <h3>🎯 Current Focus</h3>
+        <ul>
+          <li>🛍️ Building an <b>E-commerce Web Application</b></li>
+          <li>🌱 Learning <b>Cloud Architecture</b> & <b>System Design</b></li>
+          <li>💡 Open for collaboration on <b>innovative web projects</b></li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="350" style="border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adarshmdev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 </div>
 
 ---
 
-### 🎯 Current Focus
-- 🛍️ Building an **E-commerce Web Application**
-- 🌱 Learning **Cloud Architecture** & **System Design**
-- 💡 Open for collaboration on **innovative web projects**
+
 
 ### 📫 Let's Connect
 <p align="left">
