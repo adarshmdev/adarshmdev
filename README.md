@@ -1,116 +1,179 @@
+<!-- Premium Cyberpunk Header with Matched Colors -->
+<div align="center">
+  <!-- Top Border Glow -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFB3&height=2&section=header" width="100%" />
+  
+  <!-- Main Header Animation with Matched Colors -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0D1117&section=header&text=QUANTUM%20NEXUS&desc=FULL%20STACK%20ARCHITECT&animation=fadeIn&fontColor=00FFB3&fontSize=60&fontAlignY=35&descSize=25&descColor=00FFB3&descAlignY=55&stroke=00FFB3&strokeWidth=2" width="100%" />
+
+  <!-- Holographic Effect -->
+  <div style="margin-top: -50px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FFB3&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=75&lines=SYSTEM+INITIALIZATION...;QUANTUM+PROTOCOLS+ENGAGED...;WELCOME+TO+THE+FUTURE+OF+CODE..." alt="Typing SVG" />
+  </div>
+</div>
+
+<!-- Digital Identity Matrix -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Adarsh;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=2000&pause=1000&color=00FFB3&background=0D1117&center=true&vCenter=true&repeat=true&width=700&height=100&lines=SYSTEM+ONLINE...;NEURAL+LINK+ESTABLISHED...;WELCOME+TO+THE+MATRIX...;I'M+ADARSH+%7C%7C+CODE+ARCHITECT" alt="Typing SVG" />
 </h1>
-<h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
+
+<!-- Real-time Status Dashboard -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="left">
-        <h3>🎯 Current Focus</h3>
-        <ul>
-          <li>🛍️ Building an <b>E-commerce Web Application</b></li>
-          <li>🌱 Learning <b>Cloud Architecture</b> & <b>System Design</b></li>
-          <li>💡 Open for collaboration on <b>innovative web projects</b></li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="350" style="border-radius: 10px;" />
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshmdev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=GPU%20POWER&query=$.gpu&url=https://api.mockapi.io/status&color=00FFB3&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UPTIME-99.99%25-00FFB3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFB3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CORE%20TEMP-42°C-00FFB3?style=for-the-badge" />
 </div>
 
----
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmdev&custom_title=NEURAL%20NETWORK%20ACTIVITY&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=false&border_color=00FFB3&area_color=00FFB380" />
+</div>
 
+<!-- Advanced Matrix Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
+<!-- Holographic Mission Status -->
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&repeat=false&width=500&height=45&lines=CURRENT+OPERATIONS" />
+  </h2>
+</div>
 
-### 📫 Let's Connect
-<p align="left">
+<table align="center" border="0">
+<tr>
+<td width="50%">
+<div align="center" style="background: linear-gradient(45deg, rgba(0,255,179,0.1), rgba(0,0,0,0)); border: 1px solid #00FFB3; border-radius: 10px; padding: 20px;">
+  <h3>🌐 PRIMARY OBJECTIVES</h3>
+  <div align="left">
+    ◉ [PRIORITY_1] E-commerce Neural Network Development<br>
+    ◉ [PRIORITY_2] Cloud Architecture Implementation<br>
+    ◉ [PRIORITY_3] Advanced System Design Integration<br>
+    ◉ [PRIORITY_4] Quantum Code Optimization
+  </div>
+</div>
+</td>
+<td width="50%">
+<div align="center" style="background: linear-gradient(45deg, rgba(0,255,179,0.1), rgba(0,0,0,0)); border: 1px solid #00FFB3; border-radius: 10px; padding: 20px;">
+  <h3>⚡ SYSTEM METRICS</h3>
+  <img src="https://profile-counter.glitch.me/adarshmdev/count.svg" alt="Visitor Count" /><br>
+  <sub><b>NEURAL_INTERFACE_CONNECTIONS</b></sub>
+</div>
+</td>
+</tr>
+</table>
+
+<!-- Performance Metrics with Neon Glow -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&repeat=false&width=500&height=45&lines=PERFORMANCE+MATRIX" />
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adarshmdev&show_icons=true&theme=dark&bg_color=0D1117&hide_border=false&border_color=00FFB3&title_color=00FFB3&text_color=FFFFFF&icon_color=00FFB3&card_width=500" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshmdev&theme=dark&background=0D1117&border=00FFB3&stroke=00FFB3&ring=00FFB3&fire=00FFB3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFB3&sideLabels=00FFB3&dates=FFFFFF" alt="GitHub Streak Stats" />
+</div>
+
+<!-- Tech Arsenal 3.0 -->
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&repeat=false&width=500&height=45&lines=TECH+ARSENAL+3.0" />
+  </h2>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<div style="border: 1px solid #00FFB3; border-radius: 10px; padding: 15px; background: linear-gradient(45deg, rgba(0,255,179,0.1), rgba(0,0,0,0));">
+  <h3>🌐 FRONTEND MATRIX</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,sass,chartjs&theme=dark" />
+</div>
+</td>
+<td align="center" width="33%">
+<div style="border: 1px solid #00FFB3; border-radius: 10px; padding: 15px; background: linear-gradient(45deg, rgba(0,255,179,0.1), rgba(0,0,0,0));">
+  <h3>⚡ BACKEND CORE</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,nginx,graphql&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=redis,socketio,prisma&theme=dark" />
+</div>
+</td>
+<td align="center" width="33%">
+<div style="border: 1px solid #00FFB3; border-radius: 10px; padding: 15px; background: linear-gradient(45deg, rgba(0,255,179,0.1), rgba(0,0,0,0));">
+  <h3>🔧 DEVOPS NEXUS</h3>
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible&theme=dark" />
+</div>
+</td>
+</tr>
+</table>
+
+<!-- Specialized Tools Matrix -->
+<div align="center" style="margin: 20px 0;">
+  <h3>🚀 QUANTUM FRAMEWORKS</h3>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=00FFB3&borderColor=00FFB3" />
+  <img src="https://img.shields.io/badge/wxt.dev-000000?style=for-the-badge&logo=vite&logoColor=00FFB3" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FFB3" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FFB3" />
+  <img src="https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3.js&logoColor=00FFB3" />
+</div>
+
+<!-- Combat Stats 2.0 -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&repeat=false&width=500&height=45&lines=COMBAT+METRICS+2.0" />
+</h2>
+
+<div align="center" style="background: linear-gradient(45deg, rgba(0,255,179,0.1), rgba(0,0,0,0)); border: 1px solid #00FFB3; border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <img src="https://leetcard.jacoblin.cool/adarsh7013a?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=00FFB3" width="495" />
+</div>
+
+<!-- Neural Network Interface -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&repeat=false&width=500&height=45&lines=NEURAL+INTERFACE" />
+</h2>
+
+<div align="center" style="margin: 20px 0;">
   <a href="https://instagram.com/adarsh_ox" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=00FFB3&color=000000&borderColor=00FFB3" />
   </a>
   <a href="https://www.leetcode.com/adarsh7013a" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=00FFB3&borderColor=00FFB3" />
   </a>
   <a href="mailto:adarsh7013a@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FFB3&borderColor=00FFB3" />
   </a>
-</p>
-
-### 💻 LeetCode Stats
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/adarsh7013a?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="495" />
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FFB3&borderColor=00FFB3" />
 </div>
 
-### 🛠️ Tech Arsenal
-
-<details open>
-<summary>Frontend Development</summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
-</p>
-</details>
-
-<details open>
-<summary>Backend Development</summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" />
-</p>
-</details>
-
-<details open>
-<summary>Database & Cloud</summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-</details>
-
-<details open>
-<summary>Tools & Platforms</summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-</p>
-</details>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshmdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshmdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" />
+<!-- Energy Level Indicator -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmdev&layout=compact&theme=dark&bg_color=0D1117&hide_border=false&border_color=00FFB3&title_color=00FFB3&text_color=FFFFFF" width="495" />
 </div>
 
+<!-- Premium Cyberpunk Footer with Matched Colors -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="45%" />
-</div>
+  <!-- Stats Separator -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFB3&height=1&section=footer" width="100%" />
+  
+  <!-- System Status with Dark Background -->
+  <div style="background: #0D1117; padding: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFB3&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=SYSTEM+STATUS:+OPTIMAL;QUANTUM+CORE:+STABLE;NEURAL+LINK:+ACTIVE" alt="System Status" />
+  </div>
+  
+  <!-- Animated Wave Footer with Matched Colors -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D1117&section=footer&text=CONNECTION+TERMINATED&fontSize=40&fontColor=00FFB3&fontAlignY=65&desc=PORT:+4444+%7C+UPTIME:+99.99%25+%7C+MEMORY:+OPTIMAL&descSize=15&descColor=00FFB3&descAlignY=85&animation=fadeIn&stroke=00FFB3&strokeWidth=2" width="100%" />
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <!-- Bottom Border Glow -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFB3&height=2&section=footer" width="100%" />
 </div>
