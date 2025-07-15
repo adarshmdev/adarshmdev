@@ -1,200 +1,215 @@
-<!-- Futuristic 3D Holographic Header -->
+<!-- Ultra Modern 3D Space Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&text=ADARSH%20M&fontSize=80&color=0:0a0a23,25:1a1a2e,50:16213e,75:0f3460,100:001122&fontColor=00d4ff&animation=twinkling&stroke=00d4ff&strokeWidth=3&section=header&reversal=false&textBg=false&desc=Full%20Stack%20Engineer%20%7C%20MERN%20Architect&descSize=28&descAlign=62&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=400&text=ADARSH&fontSize=100&color=gradient&customColorList=6,11,20&animation=twinkling&stroke=ffffff&strokeWidth=2&desc=Full%20Stack%20Architect%20%E2%80%A2%20Digital%20Innovator&descSize=25&descAlign=50&descAlignY=75&fontAlign=50&fontAlignY=40" />
   
-  <!-- 3D CSS Holographic Effect Overlay -->
-  <div style="position: relative; margin-top: -50px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=60&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄;⚡+INITIALIZING+NEURAL+INTERFACE+⚡;▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Neural Interface Loading" />
-  </div>
+  <!-- Floating Particle Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=6C63FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=✨+INITIALIZING+DIGITAL+UNIVERSE+✨;🌌+Welcome+to+my+creative+space+🌌" alt="Space Welcome" />
 </div>
 
-<!-- Cyberpunk Terminal Interface -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=00FFFF&background=0A0A2300&center=true&vCenter=true&multiline=true&width=900&height=120&lines=┌─[SYSTEM@NEURAL-NET]~$;│+ACCESSING+DEVELOPER+PROFILE...;│+STATUS:+ONLINE+⚡+READY+FOR+INNOVATION;└─[ADARSH.EXE]+LOADED+SUCCESSFULLY" alt="Cyberpunk Terminal" />
-  
-  <!-- Holographic Identity Matrix -->
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=40E0D0&background=00000000&center=true&vCenter=true&width=600&lines=▸+NEURAL+ARCHITECT+◂;▸+FULL-STACK+ENGINEER+◂;▸+MERN+STACK+SPECIALIST+◂;▸+CLOUD+NATIVE+BUILDER+◂" alt="Identity Matrix" />
-</div>
-
-<!-- Futuristic Status Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/▶_STATUS-ONLINE_⚡-00ff41?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0a0a23" />
-  <img src="https://img.shields.io/badge/⚡_NEURAL_NET-INDIA_🌐-00d4ff?style=for-the-badge&logo=atom&logoColor=white&labelColor=0a0a23" />
-  <img src="https://img.shields.io/badge/🧠_INTERFACE-EN_|_HI-40e0d0?style=for-the-badge&logo=brain&logoColor=white&labelColor=0a0a23" />
-</div>
-
-<!-- Holographic Neural Stats -->
+<!-- Glassmorphism Identity Card -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adarshmdev&show_icons=true&theme=cobalt&bg_color=0a0a23&border_color=00d4ff&icon_color=40e0d0&text_color=ffffff&title_color=00ffff&ring_color=00d4ff&fire_color=00ff41&currStreakLabel=40e0d0&hide_border=false&border_radius=15">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshmdev&show_icons=true&theme=cobalt&bg_color=0a0a23&border_color=00d4ff&icon_color=40e0d0&text_color=ffffff&title_color=00ffff&ring_color=00d4ff&fire_color=00ff41&currStreakLabel=40e0d0&hide_border=false&border_radius=15" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=adarshmdev&theme=dark&background=0a0a23&border=00d4ff&stroke=40e0d0&ring=00ffff&fire=00ff41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=40e0d0&sideLabels=40e0d0&dates=ffffff&hide_border=false&border_radius=15">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=adarshmdev&theme=dark&background=0a0a23&border=00d4ff&stroke=40e0d0&ring=00ffff&fire=00ff41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=40e0d0&sideLabels=40e0d0&dates=ffffff&hide_border=false&border_radius=15" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=4F46E5&background=FFFFFF10&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👨‍💻+Full+Stack+Developer;🚀+MERN+Stack+Specialist;⚡+Performance+Optimizer;🎨+UI%2FUX+Enthusiast" alt="Identity Card" />
   </picture>
 </div>
 
-<!-- 3D Floating Tech Matrix -->
+<br/>
+
+<!-- Modern Status Indicators -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=600&lines=⚡+NEURAL+TECH+MATRIX+⚡" alt="Tech Matrix Header" />
-  <br/><br/>
-  
-  <!-- Floating 3D Tech Icons with Holographic Effect -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,redis,aws,docker,git,kubernetes,terraform&theme=dark&perline=6" />
-  <br/><br/>
-  
-  <!-- Animated Tech Flow -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=40E0D0&background=00000000&center=true&vCenter=true&width=800&lines=▸+FRONTEND:+React+•+Next.js+•+TypeScript+•+TailwindCSS;▸+BACKEND:+Node.js+•+Express+•+MongoDB+•+Redis;▸+DEVOPS:+Docker+•+AWS+•+Kubernetes+•+Terraform;▸+TOOLS:+Git+•+VS+Code+•+Postman+•+Figma" alt="Tech Flow" />
+  <img src="https://img.shields.io/badge/🟢_Status-Available_for_Projects-4F46E5?style=for-the-badge&labelColor=1E1B4B&logo=statuspage" />
+  <img src="https://img.shields.io/badge/🌍_Location-India-6366F1?style=for-the-badge&labelColor=1E1B4B&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/💬_Languages-English_•_Hindi-8B5CF6?style=for-the-badge&labelColor=1E1B4B&logo=googletranslate" />
 </div>
 
-<!-- Neural Profile Analysis -->
+<br/>
+
+<!-- 3D Floating Stats with Glassmorphism -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=500&lines=🧬+NEURAL+PROFILE+🧬" alt="Neural Profile" />
-  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adarshmdev&show_icons=true&theme=transparent&bg_color=0D1117&border_color=6366F1&icon_color=A855F7&text_color=E5E7EB&title_color=6366F1&border_radius=20&hide_border=false">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=adarshmdev&show_icons=true&theme=transparent&bg_color=FFFFFF&border_color=6366F1&icon_color=A855F7&text_color=374151&title_color=6366F1&border_radius=20&hide_border=false" />
+  </picture>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=800&color=40E0D0&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=▸+Architect+of+scalable+digital+ecosystems;▸+Neural+networks+meet+full-stack+engineering;▸+Transforming+complex+algorithms+into+elegant+solutions;▸+Building+tomorrow's+web+with+today's+innovation" alt="Profile Description" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=adarshmdev&theme=transparent&background=0D1117&border=6366F1&stroke=A855F7&ring=6366F1&fire=F59E0B&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A855F7&sideLabels=9CA3AF&dates=9CA3AF&border_radius=20">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=adarshmdev&theme=transparent&background=FFFFFF&border=6366F1&stroke=A855F7&ring=6366F1&fire=F59E0B&currStreakNum=374151&sideNums=374151&currStreakLabel=A855F7&sideLabels=6B7280&dates=6B7280&border_radius=20" />
+  </picture>
 </div>
 
-<!-- System Status -->
+<br/>
+
+<!-- Tech Constellation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=⚡+SYSTEM+STATUS+⚡" alt="System Status" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&width=500&lines=🌟+Tech+Constellation" alt="Tech Header" />
   <br/><br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=700&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🔬+Microservices+Architecture+Research+ACTIVE;🧠+Distributed+Systems+Deep+Dive+ONGOING;☁️+Cloud-Native+Innovation+PROCESSING" alt="Current Status" />
-</div>
-
-<!-- 3D Holographic Project Showcase -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=🚀+NEURAL+PROJECT+MATRIX+🚀" alt="Project Matrix" />
-</div>
-
-<table align="center" style="border-collapse: collapse; background: linear-gradient(135deg, #0a0a23, #1a1a2e); border-radius: 15px; overflow: hidden;">
-  <tr style="background: linear-gradient(90deg, #00d4ff, #40e0d0); color: #0a0a23;">
-    <th style="padding: 15px; font-family: 'Orbitron', monospace; font-weight: bold;">⚡ PROJECT</th>
-    <th style="padding: 15px; font-family: 'Orbitron', monospace; font-weight: bold;">🧬 NEURAL DESCRIPTION</th>
-    <th style="padding: 15px; font-family: 'Orbitron', monospace; font-weight: bold;">🔧 TECH MATRIX</th>
-    <th style="padding: 15px; font-family: 'Orbitron', monospace; font-weight: bold;">🌐 ACCESS</th>
-  </tr>
-  <tr style="border-bottom: 2px solid #00d4ff;">
-    <td style="padding: 20px; color: #00ffff; font-family: 'JetBrains Mono', monospace;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=200&lines=🌐+E-COMMERCE;NEURAL+PLATFORM" alt="E-commerce" />
-    </td>
-    <td style="padding: 20px; color: #40e0d0; font-family: 'JetBrains Mono', monospace;">Advanced MERN quantum architecture delivering seamless digital commerce experiences with neural microservices</td>
-    <td style="padding: 20px;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-    <td style="padding: 20px;">
-      <a href="https://github.com/adarshmdev/ecommerce-platform">
-        <img src="https://img.shields.io/badge/⚡_NEURAL_LINK-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a23" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px; color: #00ffff; font-family: 'JetBrains Mono', monospace;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=200&lines=🤖+AI+NEURAL;TASK+MANAGER" alt="AI Task" />
-    </td>
-    <td style="padding: 20px; color: #40e0d0; font-family: 'JetBrains Mono', monospace;">Quantum intelligence project management with machine learning insights for enhanced neural productivity</td>
-    <td style="padding: 20px;">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    </td>
-    <td style="padding: 20px;">
-      <a href="https://github.com/adarshmdev/ai-task-manager">
-        <img src="https://img.shields.io/badge/⚡_NEURAL_LINK-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a23" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Neural Activity Graph -->
-<details>
-  <summary>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFFF&background=00000000&center=false&vCenter=true&width=400&lines=📈+NEURAL+ACTIVITY+MATRIX" alt="Neural Activity" />
-  </summary>
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=40E0D0&background=00000000&center=true&vCenter=true&width=600&lines=▸+Mapping+digital+footprints+across+the+neural+web" alt="Activity Description" />
-    <br/><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmdev&theme=high-contrast&bg_color=0a0a23&color=00d4ff&line=40e0d0&point=00ffff&area=true&hide_border=false&border_radius=15" />
-  </div>
-</details>
-
-<!-- Quantum Coding Challenges -->
-<details>
-  <summary>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&background=00000000&center=false&vCenter=true&width=400&lines=🏆+QUANTUM+ALGORITHMS" alt="Quantum Algorithms" />
-  </summary>
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=40E0D0&background=00000000&center=true&vCenter=true&width=700&lines=▸+Neural+problem-solving+through+quantum+algorithms" alt="Coding Description" />
-    <br/><br/>
-    <img src="https://leetcard.jacoblin.cool/adarsh7013a?theme=dark&font=Orbitron&ext=heatmap&border=2&border_radius=15" />
-  </div>
-</details>
-
-<!-- Neural Network Connections -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=600&lines=🌐+NEURAL+NETWORK+HUB+🌐" alt="Network Hub" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=40E0D0&background=00000000&center=true&vCenter=true&width=500&lines=▸+Establishing+quantum+connections" alt="Network Description" />
-  <br/><br/>
-  
-  <!-- Matrix-style Connection Grid -->
-  <table style="border-collapse: collapse; background: transparent;">
+  <!-- 3D Tech Grid -->
+  <table align="center" style="border-spacing: 15px;">
     <tr>
-      <td style="padding: 10px;">
-        <a href="mailto:adarsh7013a@gmail.com">
-          <img src="https://img.shields.io/badge/📧_NEURAL_MAIL-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a23" />
-        </a>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" />
+        <br/><sub><b>React</b></sub>
       </td>
-      <td style="padding: 10px;">
-        <a href="https://www.linkedin.com/in/adarshmdev">
-          <img src="https://img.shields.io/badge/💼_PROFESSIONAL_NET-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a23" />
-        </a>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" />
+        <br/><sub><b>Next.js</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" />
+        <br/><sub><b>TypeScript</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" />
+        <br/><sub><b>Node.js</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" />
+        <br/><sub><b>Express</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />
+        <br/><sub><b>MongoDB</b></sub>
       </td>
     </tr>
     <tr>
-      <td style="padding: 10px;">
-        <a href="https://instagram.com/adarsh_ox">
-          <img src="https://img.shields.io/badge/📱_VISUAL_STREAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a23" />
-        </a>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" width="50" height="50" />
+        <br/><sub><b>Tailwind</b></sub>
       </td>
-      <td style="padding: 10px;">
-        <a href="https://www.leetcode.com/adarsh7013a">
-          <img src="https://img.shields.io/badge/🧩_ALGORITHM_LAB-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a23" />
-        </a>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" />
+        <br/><sub><b>AWS</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
+        <br/><sub><b>Docker</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
+        <br/><sub><b>Git</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" />
+        <br/><sub><b>Redis</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" />
+        <br/><sub><b>Figma</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Holographic Footer Terminal -->
+<br/>
+
+<!-- About Section with Modern Design -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=150&section=footer&color=0:0a0a23,25:1a1a2e,50:16213e,75:0f3460,100:001122&animation=twinkling" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=400&lines=✨+About+Me" alt="About Header" />
+  <br/><br/>
   
-  <!-- Terminal Visitor Counter -->
-  <div style="margin-top: -50px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00FFFF&background=00000000&center=true&vCenter=true&width=400&lines=▸+NEURAL+VISITORS+DETECTED" alt="Visitor Counter" />
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=adarshmdev&color=00d4ff&style=for-the-badge&label=NEURAL+CONNECTIONS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=4000&pause=1200&color=6B7280&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🎯+Passionate+about+creating+seamless+digital+experiences;🚀+Specialized+in+modern+web+technologies+and+scalable+solutions;💡+Always+exploring+new+frameworks+and+best+practices;🌱+Currently+diving+deep+into+cloud+architecture+and+DevOps" alt="About Description" />
+</div>
+
+<br/>
+
+<!-- Featured Projects with 3D Cards -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&width=500&lines=🎨+Featured+Projects" alt="Projects Header" />
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <!-- Project Card 1 -->
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 20px; max-width: 800px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);">
+    <h3 style="color: white; margin: 0 0 15px 0;">🌐 E-Commerce Platform</h3>
+    <p style="color: #E5E7EB; margin: 0 0 20px 0;">Full-stack MERN application with advanced features including real-time chat, payment integration, and admin dashboard</p>
+    <div>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+    </div>
+  </div>
+  
+  <!-- Project Card 2 -->
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 30px; margin: 20px; max-width: 800px; box-shadow: 0 20px 40px rgba(240, 147, 251, 0.3);">
+    <h3 style="color: white; margin: 0 0 15px 0;">🤖 AI Task Manager</h3>
+    <p style="color: #E5E7EB; margin: 0 0 20px 0;">Intelligent project management tool with AI-powered task prioritization and automated workflow optimization</p>
+    <div>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+    </div>
+  </div>
+  
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<details align="center">
+  <summary>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=300&lines=📊+Activity+Graph" alt="Activity" />
+  </summary>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmdev&theme=github-compact&bg_color=ffffff&color=6366f1&line=a855f7&point=8b5cf6&area=true&hide_border=true&border_radius=20" />
+</details>
+
+<br/>
+
+<!-- Coding Stats -->
+<details align="center">
+  <summary>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=F59E0B&background=00000000&center=true&vCenter=true&width=300&lines=🏆+Coding+Stats" alt="Coding Stats" />
+  </summary>
+  <br/>
+  <img src="https://leetcard.jacoblin.cool/adarsh7013a?theme=light&font=Inter&ext=heatmap&border=2&border_radius=20" />
+</details>
+
+<br/>
+
+<!-- Connect Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&width=400&lines=🌐+Let's+Connect" alt="Connect Header" />
+  <br/><br/>
+  
+  <!-- Modern Connection Links -->
+  <a href="mailto:adarsh7013a@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adarshmdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/adarsh_ox">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1F2937" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/adarsh7013a">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1F2937" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn" />
+  
+  <!-- Visitor Counter -->
+  <div style="margin-top: -30px;">
+    <img src="https://komarev.com/ghpvc/?username=adarshmdev&color=6366f1&style=for-the-badge&label=Profile+Views" />
   </div>
 </div>
 
-<!-- Quantum Philosophy Terminal -->
-<div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=40E0D0&background=00000000&center=true&vCenter=true&width=500&lines=💫+NEURAL+PHILOSOPHY+💫" alt="Philosophy Header" />
-  <br/><br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=▸+Transforming+quantum+ideas+into+digital+reality;▸+One+neural+connection+at+a+time;▸+Committed+to+innovation%2C+excellence%2C+and+evolution;▸+Building+the+future+through+code+architecture" alt="Philosophy" />
-</div>
+<br/>
 
-<!-- Matrix End Sequence -->
+<!-- Inspirational Quote -->
 <div align="center">
-  <br/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=2000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=600&lines=⚡+NEURAL+INTERFACE+COMPLETE+⚡;▸+Thank+you+for+visiting+the+matrix+◂;▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="End Sequence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=5000&pause=2000&color=6B7280&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💫+%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;✨+Building+the+future%2C+one+commit+at+a+time" alt="Quote" />
 </div>
