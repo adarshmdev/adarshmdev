@@ -1,215 +1,227 @@
-<!-- Ultra Modern 3D Space Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=400&text=ADARSH&fontSize=100&color=gradient&customColorList=6,11,20&animation=twinkling&stroke=ffffff&strokeWidth=2&desc=Full%20Stack%20Architect%20%E2%80%A2%20Digital%20Innovator&descSize=25&descAlign=50&descAlignY=75&fontAlign=50&fontAlignY=40" />
-  
-  <!-- Floating Particle Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=6C63FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=✨+INITIALIZING+DIGITAL+UNIVERSE+✨;🌌+Welcome+to+my+creative+space+🌌" alt="Space Welcome" />
+
+<!-- Luxury Header -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=80&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=ADARSH" alt="ADARSH" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=18&duration=1&pause=999999&color=9CA3AF&center=true&vCenter=true&width=600&height=35&lines=FULL+STACK+ARCHITECT+•+DIGITAL+INNOVATOR" alt="Subtitle" />
+</p>
+
+<br/>
+
+<!-- Divider -->
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<br/><br/>
+
+<!-- Stats Row -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshmdev&show_icons=true&theme=transparent&bg_color=00000000&border_color=E5E5E5&icon_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF&border_radius=0&hide_border=false&include_all_commits=true&line_height=21&custom_title=Statistics"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=adarshmdev&theme=transparent&background=00000000&border=E5E5E5&stroke=E5E5E5&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E5E5E5&sideLabels=E5E5E5&dates=E5E5E5&border_radius=0"/>
+</p>
+
+<br/><br/>
+
 </div>
 
-<!-- Glassmorphism Identity Card -->
+<!-- Updated: ABOUT section header in Cormorant Garamond -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=42&duration=1&pause=999999&color=FFFFFF&vCenter=true&width=200&height=60&lines=ABOUT" alt="ABOUT" />
+</p>
+
+<!-- Updated: About body text in Cormorant Garamond -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=19&duration=1&pause=999999&color=E5E5E5&vCenter=true&multiline=true&width=1000&height=120&lines=Full+Stack+Developer+specializing+in+scalable+web+applications+and+cloud-native;architectures.+Passionate+about+creating+elegant+solutions+that+balance+performance,;maintainability,+and+user+experience.+Currently+focused+on+modern+JavaScript;frameworks,+microservices+architecture,+and+DevOps+best+practices." alt="About Description" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=17&duration=1&pause=999999&color=9CA3AF&vCenter=true&width=800&height=30&lines=Location:+India+•+Status:+Available+for+Projects+•+Languages:+English,+Hindi" alt="Info" />
+</p>
+
+<br/>
+
+<!-- Updated: TECHNICAL EXPERTISE section in Cormorant Garamond -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=42&duration=1&pause=999999&color=FFFFFF&vCenter=true&width=500&height=60&lines=TECHNICAL+EXPERTISE" alt="TECHNICAL EXPERTISE" />
+</p>
+
 <div align="center">
-  <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=4F46E5&background=FFFFFF10&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👨‍💻+Full+Stack+Developer;🚀+MERN+Stack+Specialist;⚡+Performance+Optimizer;🎨+UI%2FUX+Enthusiast" alt="Identity Card" />
-  </picture>
+
+<!-- Updated: Subsection headers in Cormorant Garamond -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=24&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=40&lines=Frontend+Development" alt="Frontend Development" />
+</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,figma&theme=light" />
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=24&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=40&lines=Backend+%26+Database" alt="Backend & Database" />
+</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,python&theme=light" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=light" />
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=24&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=40&lines=Cloud+%26+DevOps" alt="Cloud & DevOps" />
+</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git&theme=light" />
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=24&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=40&lines=Mobile+Development" alt="Mobile Development" />
+</p>
+<img src="https://skillicons.dev/icons?i=flutter&theme=light" />
+
 </div>
 
 <br/>
 
-<!-- Modern Status Indicators -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🟢_Status-Available_for_Projects-4F46E5?style=for-the-badge&labelColor=1E1B4B&logo=statuspage" />
-  <img src="https://img.shields.io/badge/🌍_Location-India-6366F1?style=for-the-badge&labelColor=1E1B4B&logo=googlemaps" />
-  <img src="https://img.shields.io/badge/💬_Languages-English_•_Hindi-8B5CF6?style=for-the-badge&labelColor=1E1B4B&logo=googletranslate" />
-</div>
+<!-- Updated: Tech details in Cormorant Garamond -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=17&duration=1&pause=999999&color=E5E5E5&vCenter=true&multiline=true&width=1100&height=140&lines=Cloud+Services:+AWS+EC2,+Lambda,+RDS,+Amplify,+Elastic+Beanstalk;Databases:+MongoDB,+PostgreSQL,+MySQL,+Redis;Backend+Frameworks:+Node.js,+Express,+NestJS,+FastAPI;Frontend+Technologies:+React,+Next.js,+TypeScript,+Tailwind+CSS;Mobile:+Flutter+|+Design:+Figma+|+Version+Control:+Git" alt="Tech Details" />
+</p>
 
 <br/>
 
-<!-- 3D Floating Stats with Glassmorphism -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adarshmdev&show_icons=true&theme=transparent&bg_color=0D1117&border_color=6366F1&icon_color=A855F7&text_color=E5E7EB&title_color=6366F1&border_radius=20&hide_border=false">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=adarshmdev&show_icons=true&theme=transparent&bg_color=FFFFFF&border_color=6366F1&icon_color=A855F7&text_color=374151&title_color=6366F1&border_radius=20&hide_border=false" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=adarshmdev&theme=transparent&background=0D1117&border=6366F1&stroke=A855F7&ring=6366F1&fire=F59E0B&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A855F7&sideLabels=9CA3AF&dates=9CA3AF&border_radius=20">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=adarshmdev&theme=transparent&background=FFFFFF&border=6366F1&stroke=A855F7&ring=6366F1&fire=F59E0B&currStreakNum=374151&sideNums=374151&currStreakLabel=A855F7&sideLabels=6B7280&dates=6B7280&border_radius=20" />
-  </picture>
-</div>
+<!-- Updated: FEATURED PROJECTS in Cormorant Garamond -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=42&duration=1&pause=999999&color=FFFFFF&vCenter=true&width=600&height=60&lines=FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
+</p>
+
+<!-- Project 1 -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&width=600&height=45&lines=🏨+Booking+Platform" alt="Booking Platform" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=18&duration=1&pause=999999&color=9CA3AF&vCenter=true&width=1000&height=35&lines=Comprehensive+hotel+and+accommodation+booking+system+with+real-time+availability+management" alt="Booking Subtitle" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=17&duration=1&pause=999999&color=E5E5E5&vCenter=true&multiline=true&width=1100&height=120&lines=Developed+a+full-stack+booking+platform+featuring+dynamic+pricing+engine,+real-time;availability+tracking,+and+secure+payment+processing.+Implemented+advanced+search+filters,;interactive+map+integration,+and+booking+management+dashboard+for+both+users;and+administrators." alt="Booking Description" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=16&duration=1&pause=999999&color=FFFFFF&vCenter=true&width=900&height=30&lines=Tech+Stack:+Next.js+•+TypeScript+•+PostgreSQL+•+Prisma+•+Stripe+•+Tailwind+CSS" alt="Booking Tech" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=16&duration=1&pause=999999&color=9CA3AF&vCenter=true&width=1000&height=30&lines=Key+Features:+Real-time+availability+•+Dynamic+pricing+•+Payment+integration+•+Admin+dashboard" alt="Booking Features" />
+</p>
 
 <br/>
 
-<!-- Tech Constellation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&width=500&lines=🌟+Tech+Constellation" alt="Tech Header" />
-  <br/><br/>
-  
-  <!-- 3D Tech Grid -->
-  <table align="center" style="border-spacing: 15px;">
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" />
-        <br/><sub><b>React</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" />
-        <br/><sub><b>Next.js</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" />
-        <br/><sub><b>TypeScript</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" />
-        <br/><sub><b>Node.js</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" />
-        <br/><sub><b>Express</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />
-        <br/><sub><b>MongoDB</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tailwindcss" width="50" height="50" />
-        <br/><sub><b>Tailwind</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" />
-        <br/><sub><b>AWS</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
-        <br/><sub><b>Docker</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
-        <br/><sub><b>Git</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" />
-        <br/><sub><b>Redis</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" />
-        <br/><sub><b>Figma</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
 <br/>
 
-<!-- About Section with Modern Design -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=400&lines=✨+About+Me" alt="About Header" />
-  <br/><br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=4000&pause=1200&color=6B7280&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🎯+Passionate+about+creating+seamless+digital+experiences;🚀+Specialized+in+modern+web+technologies+and+scalable+solutions;💡+Always+exploring+new+frameworks+and+best+practices;🌱+Currently+diving+deep+into+cloud+architecture+and+DevOps" alt="About Description" />
-</div>
+<!-- Project 2 -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&width=600&height=45&lines=🤖+AI+Task+Manager" alt="AI Task Manager" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=18&duration=1&pause=999999&color=9CA3AF&vCenter=true&width=1000&height=35&lines=Intelligent+project+management+platform+with+AI-powered+task+optimization" alt="AI Subtitle" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=17&duration=1&pause=999999&color=E5E5E5&vCenter=true&multiline=true&width=1100&height=120&lines=Built+an+advanced+project+management+tool+leveraging+OpenAI's+API+for+intelligent;task+prioritization,+automated+workflow+suggestions,+and+predictive+analytics.;Features+include+team+collaboration,+time+tracking,+and+comprehensive;reporting+dashboards." alt="AI Description" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=16&duration=1&pause=999999&color=FFFFFF&vCenter=true&width=900&height=30&lines=Tech+Stack:+Next.js+•+TypeScript+•+OpenAI+•+Prisma+•+PostgreSQL+•+Redis" alt="AI Tech" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=16&duration=1&pause=999999&color=9CA3AF&vCenter=true&width=1000&height=30&lines=Key+Features:+AI+prioritization+•+Workflow+automation+•+Team+collaboration+•+Analytics" alt="AI Features" />
+</p>
 
 <br/>
 
-<!-- Featured Projects with 3D Cards -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&width=500&lines=🎨+Featured+Projects" alt="Projects Header" />
-</div>
+---
 
 <br/>
 
-<div align="center">
-  
-  <!-- Project Card 1 -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 20px; max-width: 800px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);">
-    <h3 style="color: white; margin: 0 0 15px 0;">🌐 E-Commerce Platform</h3>
-    <p style="color: #E5E7EB; margin: 0 0 20px 0;">Full-stack MERN application with advanced features including real-time chat, payment integration, and admin dashboard</p>
-    <div>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
-    </div>
-  </div>
-  
-  <!-- Project Card 2 -->
-  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 30px; margin: 20px; max-width: 800px; box-shadow: 0 20px 40px rgba(240, 147, 251, 0.3);">
-    <h3 style="color: white; margin: 0 0 15px 0;">🤖 AI Task Manager</h3>
-    <p style="color: #E5E7EB; margin: 0 0 20px 0;">Intelligent project management tool with AI-powered task prioritization and automated workflow optimization</p>
-    <div>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-    </div>
-  </div>
-  
-</div>
+<!-- Project 3 -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&width=600&height=45&lines=🛍️+E-Commerce+Platform" alt="E-Commerce Platform" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=18&duration=1&pause=999999&color=9CA3AF&vCenter=true&width=1000&height=35&lines=Full-stack+marketplace+with+real-time+inventory+and+customer+analytics" alt="Ecommerce Subtitle" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=17&duration=1&pause=999999&color=E5E5E5&vCenter=true&multiline=true&width=1100&height=120&lines=Developed+a+complete+e-commerce+solution+with+real-time+inventory+management,;customer+behavior+analytics,+integrated+payment+gateway,+and+responsive+admin;dashboard.+Implemented+advanced+product+filtering,+cart+management,;and+order+tracking." alt="Ecommerce Description" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=16&duration=1&pause=999999&color=FFFFFF&vCenter=true&width=900&height=30&lines=Tech+Stack:+React+•+Node.js+•+MongoDB+•+Express+•+AWS+S3+•+Stripe" alt="Ecommerce Tech" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=16&duration=1&pause=999999&color=9CA3AF&vCenter=true&width=1000&height=30&lines=Key+Features:+Real-time+inventory+•+Analytics+dashboard+•+Payment+gateway+•+Order+tracking" alt="Ecommerce Features" />
+</p>
 
 <br/>
 
-<!-- Activity Graph -->
-<details align="center">
-  <summary>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=300&lines=📊+Activity+Graph" alt="Activity" />
-  </summary>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmdev&theme=github-compact&bg_color=ffffff&color=6366f1&line=a855f7&point=8b5cf6&area=true&hide_border=true&border_radius=20" />
+<!-- Updated: CODING ACTIVITY in Cormorant Garamond -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=42&duration=1&pause=999999&color=FFFFFF&vCenter=true&width=600&height=60&lines=CODING+ACTIVITY" alt="CODING ACTIVITY" />
+</p>
+
+<div align="center">
+  
+<details>
+<summary>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=35&lines=📊+GitHub+Activity+Graph" alt="Activity Graph" />
+</summary>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmdev&theme=github-compact&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=E5E5E5&area=true&hide_border=true&border_radius=0" width="100%"/>
 </details>
 
+<details>
+<summary>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=35&lines=💻+Most+Used+Languages" alt="Most Used Languages" />
+</summary>
 <br/>
-
-<!-- Coding Stats -->
-<details align="center">
-  <summary>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=F59E0B&background=00000000&center=true&vCenter=true&width=300&lines=🏆+Coding+Stats" alt="Coding Stats" />
-  </summary>
-  <br/>
-  <img src="https://leetcard.jacoblin.cool/adarsh7013a?theme=light&font=Inter&ext=heatmap&border=2&border_radius=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmdev&layout=compact&theme=transparent&bg_color=00000000&border_color=E5E5E5&text_color=FFFFFF&title_color=FFFFFF&border_radius=0&hide_border=false" width="500"/>
 </details>
 
-<br/>
-
-<!-- Connect Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&width=400&lines=🌐+Let's+Connect" alt="Connect Header" />
-  <br/><br/>
-  
-  <!-- Modern Connection Links -->
-  <a href="mailto:adarsh7013a@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adarshmdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/adarsh_ox">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1F2937" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/adarsh7013a">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1F2937" />
-  </a>
 </div>
 
 <br/>
 
-<!-- Footer -->
+<!-- Updated: CONNECT in Cormorant Garamond -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=42&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=60&lines=CONNECT" alt="CONNECT" />
+</p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn" />
-  
-  <!-- Visitor Counter -->
-  <div style="margin-top: -30px;">
-    <img src="https://komarev.com/ghpvc/?username=adarshmdev&color=6366f1&style=for-the-badge&label=Profile+Views" />
-  </div>
+
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsh7013a@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshmdev)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adarsh_ox)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/adarsh7013a)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=adarshmdev&color=000000&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
 
 <br/>
 
-<!-- Inspirational Quote -->
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=5000&pause=2000&color=6B7280&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💫+%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;✨+Building+the+future%2C+one+commit+at+a+time" alt="Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=400&size=15&duration=1&pause=999999&color=6B7280&center=true&vCenter=true&width=700&height=30&lines=Built+with+precision+•+Maintained+with+care+•+Updated+regularly" alt="Footer" />
 </div>
