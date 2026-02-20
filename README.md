@@ -10,7 +10,6 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=adarshmdev&theme=default)
 
 ---
-
 ## About
 
 Full Stack Developer specializing in scalable web applications and cloud-native architectures. Passionate about creating elegant solutions that balance performance, maintainability, and user experience. Currently focused on modern JavaScript frameworks, microservices architecture, and DevOps best practices.
